@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782402094259",
+    "project_id": "todolist-e3f4a",
+    "storage_bucket": "todolist-e3f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782402094259:android:f483a3140f67f6cc9a1cc6",
+        "android_client_info": {
+          "package_name": "com.xenia.todosimpleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoapYfCeNZd0LKEhLsZvJO-zMMmzkqJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

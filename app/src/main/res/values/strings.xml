@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Список дел</string>
+
+    <!-- fragment_main.xml -->
+    <string name="hello">Привет, %1$s!</string>
+    <string name="count_tasks">У вас нет задач на сегодня</string>
+    <string name="progress">Ваш прогресс будет отображен здесь</string>
+    <string name="progress_digit" translatable="false">0%</string>
+    <string name="today_tasks">Задачи на сегодня</string>
+
+    <!-- fragment_on_board.xml -->
+    <string name="tv_on_board_1">Выполняйте дела с помощью TODo</string>
+    <string name="tv_on_board_2">Завершайте задачи для лучшей жизни. Чтобы удалить задачу, проведите влево или вправо.</string>
+    <string name="btn_text_on_board">Начать</string>
+    <string name="src_image" translatable="false">image_on_board</string>
+
+    <!-- fragment_sign_in.xml -->
+    <string name="welcome_back">С возвращением!</string>
+    <string name="enter_email_address">Введите ваш email</string>
+    <string name="enter_your_password">Введите ваш пароль</string>
+    <string name="forgot_password"><u>Забыли пароль?</u></string>
+    <string name="sign_in">Войти</string>
+    <string name="do_not_have_an_account">Нет аккаунта?</string>
+    <string name="sign_up">Зарегистрироваться</string>
+
+    <!-- fragment_sign_up.xml -->
+    <string name="welcome_onboard">Добро пожаловать!</string>
+    <string name="help_you">Давайте поможем вам справляться с задачами</string>
+    <string name="enter_full_name">Введите ваше имя</string>
+    <string name="email_address">Введите ваш email</string>
+    <string name="create_password">Создайте пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="have_account">Уже есть аккаунт? </string>
+
+    <string name="task">Задача</string>
+
+    <!-- fragment_recovery_password.xml -->
+    <string name="text_recovery_1">Введите email и нажмите на кнопку, чтобы отправить ссылку</string>
+    <string name="send_code">Отправить ссылку</string>
+    <string name="link_sent">Ссылка отправлена</string>
+    <string name="return_to_the_sign_in"><u>Вернуться к входу</u></string>
+
+    <!-- fragment_profile.xml -->
+    <string name="text_profile_name">имя</string>
+    <string name="text_profile_sign_out">Выйти</string>
+    <string name="text_profile_return">Вернуться к задачам</string>
+    <string name="text_profile_create">создано Tolegen</string>
+</resources>
